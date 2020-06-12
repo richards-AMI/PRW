@@ -1,4 +1,4 @@
-# PRW
+# PRW   collect.sh
 ToDo:   
  - Output hint about user providing a directory to script
  - Check output of each command for length (lines) move shorter output to top of log file following Date and Versions.
